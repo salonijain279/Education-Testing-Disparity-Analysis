@@ -1,6 +1,6 @@
-# Education Testing Disparity Analysis
+# Identifying Education Testing Disparities
 
-An exploratory analytics workflow for identifying performance disparities across candidate groups and geographic regions.
+A Python exploratory-analysis and segmentation workflow for comparing testing outcomes across candidate groups and geographic regions.
 
 ## Business question
 
