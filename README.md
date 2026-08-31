@@ -1,12 +1,12 @@
 # Identifying Education Testing Disparities
 
-A Python exploratory-analysis and segmentation workflow for comparing testing outcomes across candidate groups and geographic regions.
+I built this Python workflow to examine where testing outcomes differ across candidate groups and regions—and to separate a measurable disparity from a causal conclusion I could not support with the available features.
 
 ## Business question
 
 Where do credential candidates experience the largest outcome gaps, and which observable access or preparation factors should program leaders investigate first?
 
-## Analysis workflow
+## What I did
 
 1. Validate candidate-level records and plausible age/score ranges.
 2. Compare completion and pass rates across regions and demographic groups.
@@ -16,7 +16,7 @@ Where do credential candidates experience the largest outcome gaps, and which ob
 
 ## Data and confidentiality
 
-This repository is a **public portfolio reconstruction using deterministic synthetic data**. No learner-level records, client files, geographic identifiers, course instructions, or private outputs from the original academic engagement are included.
+I rebuilt the analysis with deterministic synthetic data for this public repository. I did not include learner-level records, client files, geographic identifiers, course instructions, or private outputs from the original academic engagement.
 
 ## Run
 
