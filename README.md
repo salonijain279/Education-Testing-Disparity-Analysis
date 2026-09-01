@@ -16,7 +16,7 @@ Where do credential candidates experience the largest outcome gaps, and which ob
 
 ## Data and confidentiality
 
-I rebuilt the analysis with deterministic synthetic data for this public repository. I did not include learner-level records, client files, geographic identifiers, course instructions, or private outputs from the original academic engagement.
+The public implementation uses deterministic synthetic data and contains no learner-level records, client files, geographic identifiers, or private engagement outputs.
 
 ## Run
 
