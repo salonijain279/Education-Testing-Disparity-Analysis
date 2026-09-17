@@ -11,6 +11,15 @@ or preparation factors should program leaders investigate first?
 
 ## Approach
 
+```mermaid
+flowchart LR
+    A[Candidate records] --> B[Validate records & score ranges]
+    B --> C[Compare completion/pass rates by region & group]
+    C --> D[Measure subject-level gaps]
+    D --> E[K-Means segmentation]
+    E --> F[Decision-ready disparity summaries]
+```
+
 1. Validate candidate-level records and plausible age/score ranges.
 2. Compare completion and pass rates across regions and demographic groups.
 3. Measure subject-level performance gaps.
